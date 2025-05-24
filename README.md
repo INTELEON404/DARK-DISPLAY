@@ -1,4 +1,3 @@
-```markdown
 # HACKINTER
 
 Welcome to the HACKINTER project! Below is a screenshot of the website showcasing its results.
